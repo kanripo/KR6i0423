@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說分別善惡所起經
+#+DATE: 2015-08-30 20:19:16.109157
+#+PROPERTY: JUAN 0
